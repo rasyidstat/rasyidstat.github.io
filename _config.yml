@@ -1,4 +1,5 @@
 # General Jekyll Config
+permalink: /:categories/:title/
 highlighter: rouge
 url: http://example.com
 lsi: false
