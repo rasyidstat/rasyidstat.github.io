@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Gue: My Personal Analytics Palace
+title: "Data Gue: My Personal Analytics Palace"
 categories:
 - blog
 ---
