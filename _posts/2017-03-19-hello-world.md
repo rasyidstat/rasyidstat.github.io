@@ -10,7 +10,15 @@ Welcome to other medium of my writing!
 
 It is not that simple because officially, today, I have three mediums to write: in Blogger, Medium and now in Github. 
 
-To simplify, my Blogger website, [emrasy.id](http://www.emrasy.id) will be a place for me to write a long story (typically more than 700 words). The writing frequency is about once a month or once per two months (easier said than be done). In other hand, my Medium will be a place for me to write a short story (typically more than 150 words and less than 500 words), as known as the longer version of my Tweet which can only contains 140 characters. In addition, I opened my Github website to store my code, my personal and side project, as well as to write about my life in a data science way. I also want to include my R Markdown project here as the part of the website.
+To simplify, my Blogger website, [emrasy.id](http://www.emrasy.id) will be a place for me to write a long story (typically more than 700 words). The writing frequency is about once a month or once per two months (easier said than be done). In other hand, my [Medium](https://medium.com/@rasyidstat) will be a place for me to write a short story (typically more than 150 words and less than 500 words), as known as the longer version of my Tweet which can only contains 140 characters. I will spend much time on Medium for reading, not for writing after all. In addition, I opened my Github website to store my code, my personal and side project, as well as to write about my life in a data science way. I also want to include my R Markdown project here as the part of the website. My Github website is planned to be full in english, different with my Blogger website which mostly covers in Bahasa. 
+
+In a nutshell, here is the compendium of my writing channel.
+
+|Channel|Content|Language|Word Counts|
+|---|---|---|---|j
+|[emrasy.id](http://www.emrasy.id)|Mixed|Bahasa, English|>500|
+|[rasyidridha.com](http://rasyidridha.com)|Project|English|250-1000|l
+|[Medium](https://medium.com/@rasyidstat)|Mixed|Bahasa, English|<500|
 
 ---
 
