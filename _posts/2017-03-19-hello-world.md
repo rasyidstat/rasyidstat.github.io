@@ -15,9 +15,9 @@ To simplify, my Blogger website, [emrasy.id](http://www.emrasy.id) will be a pla
 In a nutshell, here is the compendium of my writing channel.
 
 |Channel|Content|Language|Word Counts|
-|---|---|---|---|j
+|---|---|---|---|
 |[emrasy.id](http://www.emrasy.id)|Mixed|Bahasa, English|>500|
-|[rasyidridha.com](http://rasyidridha.com)|Project|English|250-1000|l
+|[rasyidridha.com](http://rasyidridha.com)|Project|English|250-1000|
 |[Medium](https://medium.com/@rasyidstat)|Mixed|Bahasa, English|<500|
 
 ---
