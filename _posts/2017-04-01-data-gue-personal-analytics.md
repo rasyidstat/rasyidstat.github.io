@@ -9,4 +9,5 @@ I am just interested with data that I generate. As the starter of my side projec
 I just want to record and visualize some of my life data as well as rehearse my R programming skills.
 
 Enjoy and take a look at my personal analytics data here!
+
 [rasyidridha.com/datague](http://rasyidridha.com/datague)
