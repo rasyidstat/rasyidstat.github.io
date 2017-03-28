@@ -29,7 +29,6 @@ My personal projects that I have build and plan to do are:
 * Personal Analytics
 	* My Lunch (version 1)
 	* GO-JEK: Make me Mobile (not build yet)
-	* My Spending (not build yet)
 	* Look back: My GPA (not build yet)
 * Statistika Unpad 2012 / PDM Group
 	* Where are My Friends Work? (not build yet)
