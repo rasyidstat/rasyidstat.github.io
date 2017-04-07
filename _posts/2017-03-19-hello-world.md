@@ -20,16 +20,16 @@ For your information, I start tracking my life more seriously this year, by trac
 
 My personal projects that I have build and plan to do are:	
 
+* Personal Analytics
+	* My Lunch (version 1)
+	* GO-JEK: Make me Mobile (not build yet)
+	* Look back: My GPA (not build yet)
 * Human Resource Analytics
 	* Explore PCPM BI 31 Squad (version 1)
 	* Explore PCPM BI 32 Squad (not build yet)
 	* Take a Glance at GPTP Telkom Candidate Data (not build yet)
 	* LPDP Awardee Data Exploration (not build yet)
 	* Get to Know with Nakama Tokopedia (not build yet)
-* Personal Analytics
-	* My Lunch (version 1)
-	* GO-JEK: Make me Mobile (not build yet)
-	* Look back: My GPA (not build yet)
 * Statistika Unpad 2012 / PDM Group
 	* Where are My Friends Work? (not build yet)
 	* Stat Unpad 2012 Marriage Clairvoyance (not build yet)
