@@ -9,11 +9,13 @@ This post is related to Data Gue project that I initialize on [rasyidridha.com/d
 
 Here is my first look at my transportation data. The first idea is that I would like to know what is the distribution of time when I depart from home and arrive to office. The visualization below is made with ggplot2 and hrbrthemes. 
 
-![First plot](/images/dep-arr-1.png)
+![](url=widthxheight)
+![](/images/dep-arr-1.png)
 
 I love that visualization. It is minimal, simple and elegant. Unfortunately, I made a mistake because the plot is not appropriate to use. My data is paired between observation and that's why placing both arrival and departure is not suggested. It can make a confusion since there is an intersection between departure and arrival distribution. The right way is to seperate departure and arrival distribution in different plot.
 
-![Second plot](/images/dep-arr-2-1.png)
+![](url=widthxheight)
+![](/images/dep-arr-2-1.png)
 
 The other option is using X-Y plot. It is more detailed and I can see the relationship between my arrival and departure time. Here it is.
 
