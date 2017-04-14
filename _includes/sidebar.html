@@ -8,9 +8,19 @@
   </a>
   <h2>I'm <a href="/">{{ site.data.theme.name }}</a>.</h2>
   <div id="bio">
-    <p>Data Connoisseur. Having fun with data!</p>
+    <p class="type"></p>
   </div>
   <div id="social">
     {% include social.html %}
   </div>
 </nav>
+
+<script src="http://jkunst.com/js/typed.custom.js"></script>
+<script>
+	document.addEventListener("DOMContentLoaded", function(){
+		Typed.new(".type", {
+			strings: ["Data Connoisseur.", "Having fun with data!"],
+			typeSpeed: 0
+		});
+	});
+</script>
