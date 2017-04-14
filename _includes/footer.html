@@ -1,8 +1,18 @@
+<script> {% include js/typed.js %} </script>
+<script>
+	document.addEventListener("DOMContentLoaded", function(){
+		Typed.new(".typed", {
+			strings: ["Statistician is a prognosticator, not a procrastinator.", 
+                "In God we trust. All others must bring data.",
+                "All models are wrong but some are useful."],
+			typeSpeed: 0
+		});
+	});
+</script>
+
 <div class="disclaimer">
   {% if site.data.theme.show_disclaimer %}
-  <p>
-    "Statistician is a prognosticator, not a procrastinator."
-  </p>
+  <p class="typed">&nbsp;</p>
   {% endif %}
 
   <p>
