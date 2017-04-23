@@ -13,17 +13,17 @@ Yes, I need to up myself, up my game and become more awesome.
 
 *Per 23 April 2017*
 
-### What are you doing?
+#### What are you doing?
 
 * Exploring my transportation (GO-JEK) data
 * Exploring such human resource data related
 
-## What is your next personal project plan?
+#### What is your next personal project plan?
 
 * Jakarta criminal spatial data visualization
 * Indonesia telecommunication operators stock price time series data visualization
 
-## What data skills do you plan to improve?
+#### What data skills do you plan to improve?
 
 * Spatial visualization
 	- Build interactive spatial visualization (animated chloropeth like this one [here](http://rmaps.github.io/blog/posts/animated-choropleths/))
