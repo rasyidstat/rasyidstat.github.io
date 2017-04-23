@@ -16,7 +16,7 @@ Yes, I need to up myself, up my game and become more awesome.
 #### What are you doing?
 
 * Exploring my transportation (GO-JEK) data
-* Exploring such human resource data related
+* Exploring human resource data related
 
 #### What is your next personal project plan?
 
