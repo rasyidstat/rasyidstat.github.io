@@ -11,16 +11,15 @@ Yes, I need to up myself, up my game and become more awesome.
 
 ---
 
-Per 23 April 2017
+*Per 23 April 2017*
 
-## What are you doing?
-* Explore my transportation (GO-JEK) data
-* Take a glance at GPTP Telkom data
-* Explore and get to know with Nakama Tokopedia
+### What are you doing?
+
+* Exploring my transportation (GO-JEK) data
+* Exploring such human resource data related
 
 ## What is your next personal project plan?
 
-* Explore PCPM BI Data
 * Jakarta criminal spatial data visualization
 * Indonesia telecommunication operators stock price time series data visualization
 
