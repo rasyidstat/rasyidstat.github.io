@@ -12,7 +12,7 @@ img {
 }
 </style>
 
-<center><img src="https://pbs.twimg.com/card_img/865415922382544896/pVDAmxZ7?format=jpg&name=600x314" width=50%></center>
+<img src="https://pbs.twimg.com/card_img/865415922382544896/pVDAmxZ7?format=jpg&name=600x314" width=50%>
 
 The game is on! Game of Data! This is very exciting for me to know that there is any data visualization competition in Indonesia. I am very interested in data visualization. For example, [Data Gue](http://rasyidridha.com/datague/) is one of my medium to show my enthusiasm in data visualization. 
 
