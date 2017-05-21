@@ -11,6 +11,7 @@ It is very helpful especially when I want to retrieve data from database. I do n
 
 I do not know many R users in Indonesia who create their own R packages. For the next phase, I would like to build my R package and publish it to Github. So far, I would like to build packages that retrieve data from API, contain Indonesia spatial data or Indonesia text corpus. These are my R packages to-do-list.
 
+- `rdha`: personal packages
 - `jakartapi`: get data from Jakarta Smart City API (or maybe from other sources)
 - `indonesia`: get Indonesia spatial data
 - `libur`: get Indonesia public holidays (maybe I will combine it with indonesia package)
