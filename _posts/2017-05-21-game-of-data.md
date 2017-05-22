@@ -18,7 +18,7 @@ The game is on! Game of Data! This is very exciting for me to know that there is
 
 The opening game is about playing with Indonesia human development index data. Below are some ideas of mine to extract insights from those data:
 
-- Spatial data visualization: static visualziation or interactive visualization via Leaflet, Highcharts or Carto
+- Spatial data visualization: static or interactive visualization via Leaflet, Highcharts or Carto
 - Linear regression: build simple regression model for each province and investigate the slope coefficients
 - Cluster analysis: combine many variables besides HDI (like education or mortality) and build clusters
 
