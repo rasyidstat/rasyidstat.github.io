@@ -5,13 +5,6 @@ categories:
 - blog
 ---
 
-<style>
-img {
-    max-width: 100%;
-    height: auto;
-}
-</style>
-
 The game is on! Game of Data! This is very exciting for me to know that there is any data visualization competition in Indonesia. I am very interested in data visualization. For example, [Data Gue](http://rasyidridha.com/datague/) is one of my medium to show my enthusiasm in data visualization. 
 
 The opening game is about playing with Indonesia human development index data. Below are some ideas of mine to extract insights from those data:

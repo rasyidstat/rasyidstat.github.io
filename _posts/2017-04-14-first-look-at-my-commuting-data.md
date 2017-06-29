@@ -5,13 +5,6 @@ categories:
 - blog
 ---
 
-<style>
-img {
-    max-width: 100%;
-    height: auto;
-}
-</style>
-
 > This post is related to Data Gue project that I initialize on [rasyidridha.com/datague](http://rasyidridha.com/datague)
 
 Here is my first look at my transportation data. The first idea is that I would like to know what is the distribution of time when I depart from home and arrive to office. The visualization below is made with `ggplot2` and `hrbrthemes`. 
