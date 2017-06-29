@@ -1,6 +1,7 @@
 # General Jekyll Config
 permalink: /:categories/:title/
 highlighter: rouge
-url: http://example.com
+url: http://rasyidridha.com
 lsi: false
+include: ['_pages']
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
