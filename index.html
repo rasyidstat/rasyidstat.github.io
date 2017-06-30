@@ -11,6 +11,9 @@ You also can reach me via <a href="mailto:rasyidstat@gmail.com">Email</a>, <a hr
 Have fun!
   </p>
 
+<!--   <p>> I am a data scientist
+  </p> -->
+
   <h2><i class="fa fa-bookmark"></i> Posts</h2>
   <ul id="blog-posts" class="posts">
     {% for post in site.categories.blog limit:5 %}
@@ -18,6 +21,14 @@ Have fun!
     {% endfor %}
     <p><a href="/blog" class="pull-right italic">See more...</a></p>
   </ul>
+
+<!--   <h2><i class="fa fa-bookmark"></i> Posts</h2>
+  <ul id="blog-posts" class="posts">
+    {% for post in site.categories.blog limit:5 %}
+      <li><span>{{ post.content |  }} &raquo;</span><b><a href="{{ post.url }}">{{ post.title }}</a></b></li>
+    {% endfor %}
+    <p><a href="/blog" class="pull-right italic">See more...</a></p>
+  </ul> -->
 
   <h2><i class="fa fa-bookmark"></i> Articles</h2>
   <ul id="blog-posts" class="posts">
