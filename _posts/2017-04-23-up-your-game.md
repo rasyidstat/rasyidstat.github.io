@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Up Your Game"
-categories:
-- blog
+categories: blog
+tags:
+- personal
+type: post
 ---
 
 I never imagine that I am in this kind of present moment where advance technology is already here. In this past 20 years, there are tremendous changes that has happened in this world. It is so fast. The future is therefore full of challenge. What will be happen in 2020? 2025? 2030? 2050? That is a wow to see the technology evolution and the competition is indeed getting tighter than before.

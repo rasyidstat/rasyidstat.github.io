@@ -1,8 +1,10 @@
 ---
 layout: post
 title: My Dream as a Data Guy
-categories:
-- blog
+categories: blog
+tags:
+- personal
+type: post
 ---
 
 I am very grateful to choose statistics as my next journey at the first place, in 2012. I never prognosticate before that there are very huge opportunities out there in the field of data. The buzz word like data science or big data is a primordial phase of data revolution nowadays.

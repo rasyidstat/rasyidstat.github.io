@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Hello World!
-categories:
-- blog
+categories: blog
+tags:
+- personal
+type: post
 ---
-
 
 Welcome to other medium of my writing!
 

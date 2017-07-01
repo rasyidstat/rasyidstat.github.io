@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "Game of Data: Having fun with Data!"
-categories:
-- blog
+categories: blog
+tags:
+- R
+- data viz
+type: post
+img: /images/ipm-2015-peta.png
 ---
 
 The game is on! Game of Data! This is very exciting for me to know that there is any data visualization competition in Indonesia. I am very interested in data visualization. For example, [Data Gue](http://rasyidridha.com/datague/) is one of my medium to show my enthusiasm in data visualization. 

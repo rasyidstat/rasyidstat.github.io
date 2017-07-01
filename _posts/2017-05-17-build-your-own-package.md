@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Build Your Own R Package to Make Your Life Easier
-categories:
-- blog
+categories: blog
+tags:
+- R
+- dev
+type: post
 ---
 
 This year is my first time to build my own R package. For the first phase, I build it for myself, to make my work easier. I do not use any comprehensive documentation or any testing yet because I use it for my personal use at my workplace. It includes ggplot2 theme with DIN font, Presto database connection, data reference and Indonesia spatial data. 

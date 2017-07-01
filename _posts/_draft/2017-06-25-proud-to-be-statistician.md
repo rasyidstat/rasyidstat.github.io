@@ -1,9 +1,20 @@
 ---
-layout: post
+layout: postdev
 title: "Proud to be a Statistician"
-categories:
-- blog
+categories: blog
+tags: 
+- R
+- stats
+- data science
+type: post
 ---
+
+```r
+library(tidytext)
+library(dplyr)
+library(ggplot2)
+library(wordcloud)
+```
 
 I can be a data scientist, data engineer or anything else but at the core, I am a statistician.
 
@@ -17,12 +28,9 @@ It strengthens my belief that I have to pursue statistics degree for my master.
 
 I have been using R for more than 4 years since 2013, when I was on my first year of college.
 
-```r
-library(tidytext)
-library(dplyr)
-library(ggplot2)
-library(wordcloud)
+First of all, we need to setup the library like the one above
 
+```r
 qs <- readLines("qs.txt", warn=FALSE) %>%
   data_frame(txt=.) %>%
   filter(grepl("\\w+", txt)) %>%
@@ -51,11 +59,10 @@ wordcloud(qs_grouped$word, qs_grouped$n,
           random.order = FALSE,
           random.color = FALSE,
           max.words = 70,
-          colors=brewer.pal(8, "Dark2")) ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
-
-names(x)
+          colors=brewer.pal(8, "Dark2"))
 ```
 
+Then, we can run all of them in a significant way
 
 
 

@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Learning Statistics (Again)"
-categories:
-- blog
+categories: blog
+tags:
+- stats
+- bayes
+type: post
 ---
 
 I contemplated that I need to learn and re-learn statistics again because after more than one year in workplace, I felt that I do not use much my statistics knowledge. I only use basic statistics like descriptive statistics and exploratory data analysis. However, for pointing in inference statistics, I do not yet use it to support impactful decision making for business. The fact is that I learn so much in computer science side like database and programming but I do not upgrade knowledge in statistics.

@@ -6,23 +6,23 @@ highlight_color: '#3498db'
 # Profile links on the left sidebar, leave blank to ignore
 social:
   github: rasyidstat
-  #bitbucket: philipj
-  #stackexchange: 348619
-  #stackoverflow: 348619
+  #bitbucket: 
+  #stackexchange: 
+  #stackoverflow: 
   twitter: rasyidstat
-  #facebook: zuck
-  #tumblr: animalygifs
+  #facebook: 
+  #tumblr: 
   linkedin: muhammad-rasyid-ridha-3b9791b9
-  #gplus: 110552447039675960964
-  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
-  #flickr: johndoe
+  #gplus: 
+  #gravatar: 
+  #flickr: 
   #medium: rasyidstat
   instagram: rasyidstat
 
 # "Hi, I'm _______"
 name: Rasyid Ridha
-email: test@example.com
-tagline: "weak opinions, strongly held"
+email: rasyidstat@gmail.com
+tagline: "Data and My Life"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-96127719-1

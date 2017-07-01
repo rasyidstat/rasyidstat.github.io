@@ -1,8 +1,13 @@
 ---
-layout: post
+layout: postdev
 title: First Look at My Transportation Data
-categories:
-- blog
+categories: blog
+tags:
+- R
+- data viz
+- quantified self
+type: post
+img: /images/dep-arr-2-1.png
 ---
 
 > This post is related to Data Gue project that I initialize on [rasyidridha.com/datague](http://rasyidridha.com/datague)
