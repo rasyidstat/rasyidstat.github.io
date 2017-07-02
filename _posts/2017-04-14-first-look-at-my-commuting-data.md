@@ -1,5 +1,5 @@
 ---
-layout: postdev
+layout: post
 title: First Look at My Transportation Data
 categories: blog
 tags:
