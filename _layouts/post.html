@@ -16,10 +16,18 @@ layout: default
 
 <p class="meta">
 {{ page.date | date: "%B %d, %Y" }} &middot;
-{{ page.content | number_of_words}} words </br>    
+{{ page.content | number_of_words}} words </br> 
+
 {% if page.tags.size > 0 %}
-  Tag{% if page.tags.size > 1 %}s{% endif %}:
-  {{ page.tags | sort | join: ", " }}
+  <i class="fa fa-tags"></i>
+  {% assign taggers = page.tags | sort %}
+  {% assign taggersize = page.tags.size | minus:1 %}
+  {% for taggers in taggers limit:taggersize %}
+    <a href="{{ site.url }}/tags/#{{ taggers }}">{{ taggers }}</a>,
+  {% endfor %}
+  {% for taggers in taggers offset:taggersize %}
+    <a href="{{ site.url }}/tags/#{{ taggers }}">{{ taggers }}</a>
+  {% endfor %}
 {% endif %}
 </p>
 
