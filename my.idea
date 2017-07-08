@@ -1,0 +1,84 @@
+Journey:
+- 2017: rasyidridha.com
+- 2018: mrasy.id
+
+Brand (username):
+rasyidstat, rasyidridha, mrsq, murhosq, mrsquared, murhosquared
+
+Real Name:
+Muhammad Rasyid Ridha (LinkedIn), Rasyid Ridha (Twitter, Telegram, Github)
+
+Title (guideline):
+- Current: Rasyid Ridha - Data and My Life (homepage), Rasyid Ridha - {{ page.title }}
+- Next: Data and My Life | Rasyid Ridha (homepage), {{ page.title }} | Rasyid Ridha
+- Alternative: Data and My Life • Rasyid Ridha, {{ page.title }} • Rasyid Ridha
+- Special page: DataKepo • Kenalan Sama Nakama, Yuk! | Rasyid Ridha
+- Special page alternative: DataKepo: Kenalan Sama Nakama, Yuk! • Rasyid Ridha
+- Special page other alternative: Kenalan Sama Nakama, Yuk! • DataKepo
+- Other brackets: ·
+
+R package development:
+- smartr (internal Smartfren R package)
+- nusantr (Indonesia R package)
+- mrsq (Rasyid Ridha's personal R library)
+- jakartapi (Jakarta Smart City R wrapper)
+- qurancorpus (R package of Quran corpus)
+- liburrr (R package for Indonesia holiday date)
+
+The reason that I collect and analyze my own data:
+- Life journalling, archiving and reflection
+- Data analysis and visualization practice
+
+Interest: data visualization, data science and R
+
+About:
+I am a statistician who love to code and play with data!
+
+Headline:
+I am a statistician who have a great zeal in data science field. I do end-to-end data analysis from A to Z such as gather, extract, clean, explore, visualize and model data to give a valuable insight to others. Currently, I am working in telecommunication industry, gathering insight from huge amount of data to truly understand customers, enhance customer experience and improve network performance. 
+
+
+Work history:
+* Data Specialist
+Used: R, Hive, Presto, Qlik, Tableau
+@ Smartfren • PT Smart Telecom Tbk.
+- Extract and analyze data from data lake
+- Develop Internal R package
+- Build and design ETL, data ingestion
+
+* Data Scientist
+@ Dattabot • PT Mediatrac Sistem Komunikasi
+Used: R, Python
+- Build geospatial clusters based on similarity of location
+- Build subscribers clusters based on call detail records (CDR) data
+- Predict subscribers profile (gender and socioeconomic status) based on call detail records (CDR) data
+
+* Data Analyst
+@ Lazada • PT Ecart Webportal Indonesia
+Used: MySQL, R, Qlik, Google Sheets
+- Extract and analyze data from database
+- Build and maintain a system for data reporting automation
+- Maintain and modify company dashboard
+- Deliver insights to VIP merchants
+
+Awards:
+- 1st Rank, Game of Data: Data Analysis and Visualization Competition
+
+I build two type of functions in newest version of `smartr` package.
+The one is `sf_query` which is the basic function to retrieve data from Hive or Presto and
+the other one is `sf_query_` which logs the query statement, timestamp, type of query and cached data in `feather` format on local storage.
+
+# DataGue
+- Makan Siang Bareng, Yuk! | DataGue
+- Cerita Data di Bulan Puasa | DataGue
+- 9 Tahun Pencarian di Papan Ketik Google | DataGue
+- Naik GO-JEK | DataGue
+- Naik KRL | DataGue
+- Naik Transjakarta | DataGue
+- Naik Pesawat | DataGue
+- Kembali ke Dunia Twitter | DataGue
+
+# DataKepo
+- Kenalan Sama Nakama, Yuk!
+- Satu Semester Data Science Indonesia
+- Piramida Demografi di Indonesia

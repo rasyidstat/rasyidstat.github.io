@@ -1,6 +1,6 @@
 ---
 layout: postdev
-title: "Proud to be a Statistician"
+title: "Proud to be a Statistician (Test Draft)"
 categories: blog
 tags: 
 - R
