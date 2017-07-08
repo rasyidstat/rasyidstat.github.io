@@ -7,6 +7,7 @@ tags:
 - data viz
 type: post
 img: /images/kenalan-sama-nakama-yuk/1.png
+pbulished: false
 ---
 
 Pada episode DataKepo kali ini, kita akan berkenalan dengan Nakama, julukan dari pegawai Tokopedia. Saya pun melakukan analisis dan eksplorasi data yang diperoleh dari laman Tokopedia, tepatnya di [https://www.tokopedia.com/team/](https://www.tokopedia.com/team/). 
