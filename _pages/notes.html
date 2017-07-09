@@ -1,0 +1,38 @@
+---
+layout: default
+permalink: /notes/
+title: Notes
+---
+
+{% assign rawtags = "" %}
+{% for post in site.categories.notes %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+<div id="home">
+<h2><i class="fa fa-pencil"></i> {{ page.title }}</h2>
+{% for tag in tags %}
+	<a href="#{{ tag }}" id="{{ tag }}">#{{ tag }}</a>
+	<ul id="blog-posts" class="posts">
+	 {% for post in site.categories.notes %}
+		 {% if post.tags contains tag %}
+		 <li><span>{{ post.date | date_to_string }} &raquo;</span><b><a href="{{ post.url }}">{{ post.title }}</a></b></li>
+		 {% endif %}
+	 {% endfor %}
+	</ul>
+{% endfor %}
+</div>
