@@ -2,6 +2,7 @@
 layout: about
 permalink: /about/
 title: About Me
+description: "Hello, I'm Rasyid Ridha. This blog is the expression of myself, data and R. Let's discuss interesting things, especially the one that is related to data."
 ---
 
 ### Hello, I'm Rasyid Ridha.
