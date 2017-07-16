@@ -23,10 +23,10 @@ Berikut ini beberapa kompilasi ide dan proyek pribadi ekosistem IFTTT gue.
 ### Wacana
 
 - Tulis sesuatu di Telegram -> Pos ke Twitter -> Simpen log di Google Spreadsheet
-- Bikin Twitter baru (@rasyiddata, @rasyidata, @murhosq) sebagai tempat penampungan log data (**staging**)
+- Bikin Twitter baru (@rasyiddata, @rasyidata, @murhosq) sebagai tempat penampungan log data (*staging*)
 - Subscribe ke surel tertentu -> Kelompokkan -> Simpan arsip di Google Drive
 - Saham naik atau turun via Stock -> Notifikasi Telegram / Pos ke Twitter
-- Tap sesuatu -> Simpen log di Google Spreadsheet (**lifelogging**)
+- Tap sesuatu -> Simpen log di Google Spreadsheet (*lifelogging*)
 
 And this will be more! IFTTT is awesome
 

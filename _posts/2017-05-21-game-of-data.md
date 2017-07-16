@@ -19,7 +19,7 @@ The opening game is about playing with Indonesia human development index data. B
 
 As the appetizer, I made a static spatial visualization of Indonesia HDI for year 2015.
 
-<img src="/images/ipm-2015-peta.png">
+<a href="/images/ipm-2015-peta.png"><img src="/images/ipm-2015-peta.png"></a>
 
 Enjoy the game!
 
