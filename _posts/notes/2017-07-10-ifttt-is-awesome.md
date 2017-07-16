@@ -9,7 +9,7 @@ type: post
 ---
 
 Sebenarnya, gue udah tau pas dulu kuliah sama IFTTT ini namun baru-baru ini gue baru mulai membentuk ekosistem IFTTT gue.
-Gue kembali melirik IFTTT diawali karena gue ga bisa mendeteksi keanehan ataupun anomali yang terjadi dalam sistem data di tempat kerja gue. Aplikasi di **server** akan memberi tahu via surel kalo ada kejanggalan yang terjadi dan gue berpikiran untuk mendapatkan notifikasi tersebut via Telegram. Dengan IFTTT, gue bisa meneruskan pemberitahuan di surel tersebut ke Telegram gue.
+Gue kembali melirik IFTTT diawali karena gue ga bisa mendeteksi keanehan ataupun anomali yang terjadi dalam sistem data di tempat kerja gue. Aplikasi di *server* akan memberi tahu via surel kalo ada kejanggalan yang terjadi dan gue berpikiran untuk mendapatkan notifikasi tersebut via Telegram. Dengan IFTTT, gue bisa meneruskan pemberitahuan di surel tersebut ke Telegram gue.
 
 Berikut ini beberapa kompilasi ide dan proyek pribadi ekosistem IFTTT gue.
 
@@ -17,7 +17,7 @@ Berikut ini beberapa kompilasi ide dan proyek pribadi ekosistem IFTTT gue.
 
 - Pos di Twitter -> Simpen log di Google Spreadsheet
 - Dapet telepon / nerima telepon -> Simpen log di Google Spreadsheet
-- Dapet surel Invoice Gojek -> Kirim ke Line Notify / Google Spreadsheet
+- Dapet surel Invoice Gojek -> Kirim ke Line Notify / Google Spregiadsheet
 - Perubahan web (pengecekan per minggu) via VisualPing-> Kirim surel -> Notifikasi Telegram
 
 ### Wacana
