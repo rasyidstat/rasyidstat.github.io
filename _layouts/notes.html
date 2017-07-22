@@ -35,3 +35,9 @@ layout: default
   {{ content }}
   <br>
 </div>
+
+{% if page.disqus %}
+  <div>
+  {% include disqus.html %}
+  </div>
+{% endif %}

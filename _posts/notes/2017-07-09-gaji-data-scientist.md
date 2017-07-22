@@ -5,13 +5,14 @@ categories: notes
 tags:
 - reference
 type: post
+disqus: true
 ---
 
 [Gaji Data Scientist di Singapura](https://www.techinasia.com/data-scientist-salaries-singapore-revealed)
 
 <img src="https://cdn.techinasia.com/wp-content/uploads/2016/12/data-scientist-pay-singapore.png">
 
-Untuk level junior pun, rata-rata gaji tahunan yang diterima mencapai 59,480 Dollar Singapura atau hampir setara dengan 600 juta rupiah (50 juta rupiah per bulan). Bagaimana dengan di Indonesia?
+Untuk level junior pun, rata-rata gaji tahunan yang diterima mencapai 59,480 Dollar Singapura atau hampir setara dengan 600 juta rupiah (50 juta rupiah per bulan). 
 
 Fakta menarik lainnya adalah:
 
@@ -21,6 +22,7 @@ Fakta menarik lainnya adalah:
 - Banyak yang pengen kerja di US
 - Cuma 6 persen berjeniskelamin perempuan
 
+Bagaimana dengan Indonesia?
 
 
 

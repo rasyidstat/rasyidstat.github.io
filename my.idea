@@ -82,3 +82,14 @@ the other one is `sf_query_` which logs the query statement, timestamp, type of 
 - Kenalan Sama Nakama, Yuk!
 - Satu Semester Data Science Indonesia
 - Piramida Demografi di Indonesia
+
+# Documentation:
+- meta.html add many options and parameters for post (title, description, img)
+  - title: page.twitter-meta-title, page.meta-title, page.title, site.title
+  - description: page.twitter-description, page.description, "first paragraph text", "default"
+  - img: page.twitter-meta-img (full hyperlink), page.meta-img (full hyperlink), page.img (not full), "default logo"
+- notes.html add options to use disqus or not
+- datakepo.html add options to show title on landing page via short-title
+- post.html related posts logic is better
+- all post type add word counts and tags
+- example for page.img: "/images/post-1/png"
