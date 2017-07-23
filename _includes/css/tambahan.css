@@ -3,6 +3,10 @@
 	font-size: 0.85em;
 }
 
+.italic-default {
+	font-style: italic;
+}
+
 #post img {
     max-width: 100%;
     height: auto;
