@@ -21,11 +21,11 @@ Pada awalnya, gue mengumpulkan data GO-JEK dengan cara meminta langsung ke *cust
 
 Gue pun langsung membuka akun IFTTT sebagai jembatan penghubung surel gue ke aplikasi lainnya pasca mendapatkan kabar gembira tersebut. Akun dapat dibuat melalui laman [ifttt.com](http://ifttt.com/) atau melalui aplikasi *mobile* untuk Android maupun iOS.
 
-## Membuat Resep
+## Membuat ResepS
 
 Membuat resep di IFTTT sangatlah mudah. IFTTT *stands for* "If This Then That". Ada dua pernyataan yang harus dipenuhi yaitu "This" yang berfungsi sebagai *trigger* dan "That" yang berfungsi sebagai *actor*.
 
-- **This**: mendapatkan surel (Gmail) dari postmaster@invoices.go-jek.com
+- **This**: mendapatkan surel (Gmail) dari _postmaster@invoices.go-jek.com_
 - **That**: kirim ke LINE Notify ([Resep 1](https://ifttt.com/applets/461009p-gmail-line)) / Kirim ke Google Spreadsheet ([Resep 2](https://ifttt.com/applets/282294p-gmail-to-sheets))
 
 <center><img src="/images/datague/data-gojek/applets.png"></center>
@@ -43,6 +43,10 @@ Setelah berhasil membuat resep dengan spesifikasi yang sudah ditentukan, langkah
 Perlu digarisbawahi bahwasannya *latency* surel yang didapatkan dan kemudian diteruskan ke aplikasi lainnya (LINE Notify, Google Spreadseet) biasanya berkisar antara 1-5 menit. Berikut ini adalah contoh keluaran dari LINE Notify yang gue dapatkan.
 
 <center><img src="/images/datague/data-gojek/line-notify.png"></center>
+
+## *Extras*
+
+Data yang sudah didapatkan via LINE Notify maupun Google Spreadsheet masih perlu diolah lagi karena masih berbentuk teks maupun HTML yang belum terstruktur. Kode di [sini](https://github.com/rasyidstat/datague-snippets/blob/master/transportation/gojek/gojek_clean.R) dapat digunakan untuk membersihkan data ke dalam bentuk tabular yang lebih terstruktur. 
 
 ---
 
