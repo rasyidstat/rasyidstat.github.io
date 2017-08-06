@@ -21,7 +21,7 @@ Pada awalnya, gue mengumpulkan data GO-JEK dengan cara meminta langsung ke *cust
 
 Gue pun langsung membuka akun IFTTT sebagai jembatan penghubung surel gue ke aplikasi lainnya pasca mendapatkan kabar gembira tersebut. Akun dapat dibuat melalui laman [ifttt.com](http://ifttt.com/) atau melalui aplikasi *mobile* untuk Android maupun iOS.
 
-## Membuat ResepS
+## Membuat Resep
 
 Membuat resep di IFTTT sangatlah mudah. IFTTT *stands for* "If This Then That". Ada dua pernyataan yang harus dipenuhi yaitu "This" yang berfungsi sebagai *trigger* dan "That" yang berfungsi sebagai *actor*.
 

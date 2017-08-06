@@ -6,7 +6,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | {{ site.data.theme.name }}</title>
+  <title>
+  {% if page.layout == "datague" %}
+  {{ page.title }} | DataGue
+  {% elsif page.layout == "datakepo" %}
+  {{ page.title }} | DataGue
+  {% else %}
+  {{ page.title }} | {{ site.data.theme.name }}
+  {% endif %}
+  </title>
   {% include meta.html %}
 
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
