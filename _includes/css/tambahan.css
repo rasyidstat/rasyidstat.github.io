@@ -10,10 +10,16 @@
 #post img {
     max-width: 100%;
     height: auto;
+    margin-bottom: 13px;
 }
 
 h1.title-margin {
   	margin-bottom: 4px;
+}
+
+h2.front {
+  margin-top: 13px;
+  margin-bottom: 6px;
 }
 
 .header {

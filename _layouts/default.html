@@ -10,7 +10,7 @@
   {% if page.layout == "datague" %}
   {{ page.title }} | DataGue
   {% elsif page.layout == "datakepo" %}
-  {{ page.title }} | DataGue
+  {{ page.title }} | DataKepo
   {% else %}
   {{ page.title }} | {{ site.data.theme.name }}
   {% endif %}
@@ -23,6 +23,9 @@
   <link rel="alternate" type="application/atom+xml" title="{{ site.data.theme.name }}" href="{{site.url}}/atom.xml" />
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg==" crossorigin="anonymous">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+  {% if page.layout == "datakepo" %}
+  
+  {% endif %}
 </head>
 
 <body>
