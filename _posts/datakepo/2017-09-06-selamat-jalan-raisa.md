@@ -12,7 +12,7 @@ word-count: false
 
 Tanggal 3 September 2017 yang lalu, Raisa. Selamat jalan Raisa! Selamat menempuh hidup baru!
 
-Di episode DataKepo kali ini, gue bakalan melakukan sedikit analisis teks mengenai lagu-lagu Raisa. Data berasal dari liriklagu.com.
+Di episode DataKepo kali ini, gue bakalan melakukan sedikit analisis teks mengenai lagu-lagu Raisa. Data berasal dari liriklagu.com (sekarang sudah berganti jadi liriklaguindonesia.net).
 
 ```r
 ## # A tibble: 792 x 5

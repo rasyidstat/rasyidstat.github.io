@@ -188,5 +188,6 @@ Learning `dplyr` is not that hard. You can learn basic data manipulation using `
 - [Spark and dplyr](https://spark.rstudio.com/dplyr.html)
 - [Spreading into multiple columns](https://stackoverflow.com/questions/30592094/r-spreading-multiple-columns-with-tidyr)
 - [Why SQL is not for Analysis, but dplyr is](https://blog.exploratory.io/why-sql-is-not-for-analysis-but-dplyr-is-5e180fef6aa7)
+- [Getting Started with Tidyverse in R](http://www.storybench.org/getting-started-with-tidyverse-in-r/)
 
 Alternatively, you can use `data.table` in R which can perform a little bit faster than `dplyr` while sacrificing the readibility of the code. `dplyr` and `tidyr` are truly game-changing packages in R for data wrangling.
