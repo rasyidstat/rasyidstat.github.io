@@ -33,8 +33,7 @@ loadfonts(quiet = TRUE)
 # load data
 load("data/df_raisa.Rda")
 df <- df %>%
-  select(-link, -source) %>%
-  mutate(txt=gsub("'", "'", txt))
+  select(-link, -source) 
 sw <- readLines("sw.txt", warn=FALSE) %>%
   data_frame(word=.)
 df
