@@ -90,7 +90,9 @@ df_token <- df %>%
   anti_join(sw) %>%
   anti_join(stop_words) %>%
   filter(nchar(word) >= 3, !grepl("you", word)) %>%
-  mutate(word = ifelse(grepl("^[a-z]{3,}mu$", word), gsub("mu$", "", word), word))
+  mutate(word = ifelse(grepl("^[a-z]{3,}mu$", word), gsub("mu$", "", word), word),
+         word = ifelse(grepl("^[a-z]{3,}ku$", word), gsub("ku$", "", word), word),
+         word = ifelse(grepl("^[a-z]{3,}nya$", word), gsub("nya$", "", word), word))
 df_word <- df_token %>%
   count(word) %>%
   arrange(-n)
@@ -131,7 +133,7 @@ df_token %>%
 ## 7        Love You Longer  love     6 7.41%
 ```
 
-Dari 29 lagu, hanya 7 lagu dengan cinta/love sebagai kata yang paling sering muncul. *Tentang **Cinta***, sesuai judulnya, menoreh kata cinta paling banyak dibandingkan lagu lainnya. Dan setelah ditelusuri secara lebih mendalam, 14 dari 29 lagu mengandung kata cinta/love di dalamnya.
+Dari 29 lagu, hanya 7 lagu dengan cinta/love sebagai kata yang paling sering muncul. *Tentang **Cinta***, sesuai judulnya, menoreh kata cinta paling banyak dibandingkan lagu lainnya. Dan setelah ditelusuri secara lebih mendalam, 15 dari 29 lagu mengandung kata cinta/love di dalamnya.
 
 ### tf-idf
 
@@ -140,7 +142,9 @@ Dari 29 lagu, hanya 7 lagu dengan cinta/love sebagai kata yang paling sering mun
 ```r
 df_token2 <- df %>%
   unnest_tokens(word, txt) %>%
-  mutate(word = ifelse(grepl("^[a-z]{3,}mu$", word), gsub("mu$", "", word), word)) %>%
+  mutate(word = ifelse(grepl("^[a-z]{3,}mu$", word), gsub("mu$", "", word), word),
+         word = ifelse(grepl("^[a-z]{3,}ku$", word), gsub("ku$", "", word), word),
+         word = ifelse(grepl("^[a-z]{3,}nya$", word), gsub("nya$", "", word), word)) %>%
   count(title, word, sort=TRUE) %>%
   group_by(title) %>%
   mutate(total=sum(n)) %>%
@@ -169,6 +173,8 @@ Dalam kasus di sini, dokumen merupakan lagu yang ada sebanyak 29. Plot di atas m
 
 ### Network Graph
 
+Ada banyak cara untuk memvisualisasikan *network graph* di R baik secara [dinamis maupun statis](http://kateto.net/network-visualization). Di sini, gue bakal fokus ke visualisasi *network graph* statis menggunakan `ggraph` karya [Thomas Lin Pedersen](http://www.data-imaginist.com/) yang sepaham dengan gaya `ggplot2`. 
+
 ```r
 library(igraph)
 library(ggraph)
@@ -194,9 +200,4 @@ df_graph %>%
 
 <img src="/images/datakepo/raisa/raisa-nw.png">
 
-Sebagai contoh, pasangan kata yang terbentuk dari "Bola itu bundar" adalah ["Bola","itu"], ["itu","bundar"] dan ["Bola","bundar"].
-
-https://interactive.twitter.com/game-of-thrones/
-http://www.ggplot2-exts.org/ggraph.html
-https://github.com/thomasp85/ggraph
-http://blog.revolutionanalytics.com/2017/02/ggraph-ggplot-for-graphs.html
+Dalam kasus di sini, pasangan kata dibentuk pada tiap baris kalimat yang ada sebanyak 792 dengan menghilangkan *stopwords* terlebih dahulu. Sebagai contoh, pasangan kata yang terbentuk dari "budi pergi ke sekolah" adalah budi-pergi, budi-sekolah dan pergi-sekolah. Dengan menggunakan fungsi `pairwise_count` dalam *package* R `widyr` karya David Robinson, pasangan kata dapat dibentuk dengan mudah. 
