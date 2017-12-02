@@ -15,7 +15,7 @@ layout: default
 <h1 class="title title-margin">{{ page.title }}</h1>
 
 <p class="meta">
-{{ page.date | date: "%B %d, %Y" }} 
+{{ page.date | date: "%d %B %Y" }} 
 {% if page.word-count %}
 &middot;
 {{ page.content | number_of_words}} words 
@@ -32,6 +32,11 @@ layout: default
   {% for taggers in taggers offset:taggersize %}
     <a href="{{ site.url }}/datague/#{{ taggers }}">{{ taggers }}</a>
   {% endfor %}
+{% endif %}
+</br>
+
+{% if page.period %}
+Period: {{ page.period }}
 {% endif %}
 </p>
 
