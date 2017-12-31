@@ -1,7 +1,7 @@
 ---
 layout: datague
 title: "2017 in Review: Bermain dengan Data di SF"
-short-title: "Bermain dengan Data di SF"
+short-title: "Bermain dengan Data"
 meta-title: "Bermain dengan Data di SF"
 categories: datague
 tags:
