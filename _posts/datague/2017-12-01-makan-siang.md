@@ -1,6 +1,6 @@
 ---
 layout: datague
-title: "1 Tahun di Sabang: Let's Have a Lunch!"
+title: "2017 in Review: Let's Have a Lunch!"
 short-title: "Let's Have a Lunch!"
 meta-title: "Let's Have a Lunch!"
 categories: datague
