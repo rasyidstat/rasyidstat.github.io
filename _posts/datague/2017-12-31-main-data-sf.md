@@ -14,6 +14,22 @@ period: 2017
 word-count: true
 ---
 
+<style>
+#post .new {
+	font-style: italic;
+	color: #aaa; 
+	text-align: right;
+	font-size: 85%;
+	margin-top: -14px;
+}
+#post .new a {
+	color: #aaa; 
+	text-decoration: underline;
+}
+</style>
+
+<p class="new">Kodingan dan R Markdown bisa dilihat di <a href="http://rasyidridha.com/datague-rmd/work/code_eda.html">sini</a> dan di <a href="http://rasyidridha.com/datague-rmd/work/query_eda.html">sini</a></p>
+
 Tidak terasa setahun sudah terlewati. Tahun 2017 adalah tahun yang penuh dengan berbagai macam data. Selain memang berprofesi sebagai tukang data, gue juga menyempatkan diri untuk bermain dengan data di luar profesi, salah satunya adalah data di kehidupan gue. Di awal tahun 2017, gue memang sudah berkomitmen untuk mengumpulkan berbagai macam data di kehidupan gue seperti data pengeluaran, transportasi, dan lain-lain. 
 
 Di sini, gue akan menilik data gue di dunia kerja untuk menjawab apa aja yang udah gue kerjain di SF selama tahun 2017 ini.

@@ -15,6 +15,22 @@ period: 01/01/2017 - 30/11/2017
 word-count: true
 ---
 
+<style>
+#post .new {
+	font-style: italic;
+	color: #aaa; 
+	text-align: right;
+	font-size: 85%;
+	margin-top: -14px;
+}
+#post .new a {
+	color: #aaa; 
+	text-decoration: underline;
+}
+</style>
+
+<p class="new">Kodingan dan R Markdown bisa dilihat di <a href="http://rasyidridha.com/datague-rmd/lunch/lunch.html">sini</a></p>
+
 Di tahun 2017, selain merekap data transportasi, gue juga merekap data lainnya seperti data makan secara lebih rinci. Di tahun-tahun sebelumnya, gue sudah merekap data pengeluaran harian. Ke depannya, gue akan mengubah model data pengeluaran gue menjadi model data transaksional yang menjelaskan aktivitas harian gue secara lebih rinci dan proses perekapan dilakukan melalui perangkat *mobile*, kemudian data disinkronisasikan dan disimpan via *cloud*.
 
 Bukan tidak mungkin di masa mendatang nanti, arah analisis data untuk pengambilan keputusan bukan untuk organisasi saja melainkan untuk individu, terlebih lagi dengan adanya IoT dan alat sensor yang merekam berbagai data di kehidupan kita secara otomatis.
