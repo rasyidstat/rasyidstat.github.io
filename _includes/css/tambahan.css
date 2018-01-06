@@ -13,6 +13,10 @@
     margin-bottom: 13px;
 }
 
+#post p {
+	text-align: justify;
+}
+
 h1.title-margin {
   	margin-bottom: 4px;
 }
