@@ -8,7 +8,7 @@ tags:
 - Yearly
 type: post
 img: /images/datague/writing/word-network-1.png.png
-published: false
+published: true
 related: false
 period: 2016-2017
 word-count: true
@@ -53,23 +53,45 @@ Dari 292 tulisan yang gue bikin di "New Scratch", gue aktif menulis sebanyak 227
 
 <img src="/images/datague/writing/monthly-1.png">
 
+Sepanjang 2016 hingga 2017, gue menulis minimum 2780 kata per bulan dan maksimum 11480 kata per bulan. Pasca lebaran tahun 2017, intensitas gue dalam menulis melambung tinggi. Peningkatanya bisa mencapai lebih dari dua kali dilihat dari banyaknya kata maupun banyaknya tulisan yang gue bikin.  
+
 ## *The Words*
+
+Kata-kata apa saja yang tertuang di "New Scratch"? Bagaimanakah perkembangannya dari waktu ke waktu? *The words will tell the truth*
 
 ### Awan Kata
 
 <img src="/images/datague/writing/writing-wc-1.png">
 
+"Data" menjadi kata favorit gue! Entahlah, karena gue bekerja sebagai tukang data, gue pun sering sekali menuliskan kata "data" di berbagai coretan tulisan gue sehingga intensitasnya pun mengalahkan kata-kata lainnya. Perlu digarisbawahi bahwa gue sudah menghilangkan beberapa kata setop (*stopwords*) baik dalam bahasa Indonesia baku maupun tidak baku dan juga bahasa Inggris. 
+
+Lantas dari 292 tulisan yang gue bikin, berapa persen tulisan yang mengandung kata "data"? Setelah gue telusuri lebih lanjut, 64% dari tulisan yang gue bikin mengandung kata "data" di dalamnya.
+
 ### 2016 ke 2017
 
 <img src="/images/datague/writing/2016-2017-change-1.png">
+
+"game" dan "win" adalah kata yang mengalami peningkatan yang sangat tinggi dibandingkan kata-kata lainnya. Ada apa gerangan? Tahun 2017, apakah gue berhasrat untuk memenangkan permainan? Permainan apa? Kata lain yang mengalami peningkatan di tahun 2017 adalah "time", "juta" dan "kudu". Apakah waktu dan uang adalah merupakan keharusan bagi gue di tahun 2017? Di sisi lain, sangat disayangkan di tahun 2017 gue mengalami penurunan penggunaan kata dalam dunia pembelajaran seperti "belajar", "s2" dan "ilmu".
 
 ### Kata-kata per Bulan
 
 <img src="/images/datague/writing/monthly-top-1.png">
 
+Dari awan kata yang sudah tersaji sebelumnya, gue bisa tau kata-kata favorit apa yang sering gue pake di "New Scratch". Dari plot di atas, gue bisa tau kata-kata favorit apa yang sering gue pake dari bulan ke bulan. Kata-kata seperti "data", "2017", "game" dan "win" merupakan kata-kata yang memang masuk dalam jajaran 10 besar kata-kata yang sering gue pake. namun ada kata-kata tertentu yang muncul sesekali dalam satu bulan tertentu saja. Contohnya, pada bulan Juni 2017, gue berkali-kali menyebutkan hal-hal yang berkaitan dengan pengembangan laman pribadi seperti "rasyidridha.com", "website", "plan", "build" dan "personal". Di bulan Juni 2017, gue memang dalam tahap pengembangan blog ini secara lebih mendalam. 
+
 ### Hubungan Kata
 
 <img src="/images/datague/writing/word-network-1.png">
+
+Sebuah kata tidak bisa berdiri dengan kokoh tanpa ada kata lainnya. Plot di atas menunjukkan hubungan kata di "New Scratch" dipisah per paragraf dengan frekuensi kata minimal 20 kali. Semakin tebal garis antar kata menunjukkan bahwa frekuensi kemunculan kata-kata tersebut secara bersamaan dalam satu paragraf juga semakin tinggi. Kata "data" menjadi pusat perhatian dan sering muncul bersamaan dengan pasangan kata lain seperti "science", "scientist", "visualization", "kemampuan" dan lain-lain.
+
+<h5>2018</h5>
+
+Banyak hal lain yang bisa digali dari kata-kata yang gue hasilkan dari tahun 2016 sampai dengan 2017 di lembaran bernama "New Scratch". Dari kata-kata yang gue tulis, gue bisa mengetahui perkembangan dan perjalanan hidup gue dari waktu ke waktu.
+
+Bagaimana dengan tahun 2018? Berapa banyak kata yang akan gue hasilkan di lembaran "New Scratch" yang baru? Apakah kata "data" akan terus mendominasi? 
+
+*Welcome 2018! Enjoy the words journey!*
 
 
 
