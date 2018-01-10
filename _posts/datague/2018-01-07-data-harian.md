@@ -7,7 +7,7 @@ categories: datague
 tags:
 - Yearly
 type: post
-img: /images/datague/writing/word-network-1.png.png
+img: /images/datague/writing/word-network-1.png
 published: true
 related: false
 period: 2016-2017
