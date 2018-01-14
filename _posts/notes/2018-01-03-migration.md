@@ -13,7 +13,7 @@ publish: true
 - Data makan siang ([DONE](http://rasyidridha.com/datague/makan-siang/))
 - Data di dunia kerja ([DONE](http://rasyidridha.com/datague/main-data-sf/))
 - Data transportasi (TBD)
-- Data kata-kata (TBD)
+- Data kata-kata ([DONE](http://rasyidridha.com/datague/data-jurnal/))
 - Data pengeluaran (CONFIDENTIAL)
 
 Ada pun, gue juga akan melakukan migrasi **Life Architecture** di Windows gue secara bertahap ke Mac. Untuk saat ini gue masih melakukan input manual data pengeluaran harian ke MS Excel dengan format baris per hari. Ke depannya, gue akan mengubah format data menjadi format baris per transaksi dengan memanfaatkan Google Form sebagai *logger* selain menggunakan TapLog di android yang berfungsi untuk merekam data transportasi, makan siang, transaksi perbankan dan lain sebagainya. 
