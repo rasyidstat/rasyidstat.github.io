@@ -23,7 +23,7 @@ Ada pun, gue juga akan melakukan migrasi **Life Architecture** di Windows gue se
 Ada banyak misi di tahun 2017 yang gagal terselesaikan dikarenakan gue kehilangan fokus di pertengahan tahun dan justru meraih hal lain di luar misi utama gue. Fokus dan konsistensi memang merupakan bahan bakar yang sangat dibutuhkan di sini!
 
 - Membaca 20 buku
-- Mengumpulkan 300 ribu kata (*currently, I already collected about 220K words*)
+- Mengumpulkan 350 ribu kata (*currently, I already collected about 270K words*)
 - Mendapatkan IELTS dengan skor minimum 7.0 (*This is hard*)
 - Memenangkan kompetisi
 - Mempublikasikan *package* R di CRAN (*I need to be more active in developing packages and contributing to open-source community*)
