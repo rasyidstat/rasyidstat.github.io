@@ -5,6 +5,7 @@ categories: blog
 tags:
 - R
 - data wrangling
+- tutorial
 type: post
 published: true
 word-count: false
