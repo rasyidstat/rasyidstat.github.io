@@ -2,6 +2,7 @@
 layout: datakepo
 title: "Visualisasi Data: Tile Grid Maps Indeks Pembangunan Manusia Indonesia per Provinsi"
 short-title: "Tile Grid Maps IPM Indonesia per Provinsi"
+meta-title: "Tile Grid Maps IPM Indonesia per Provinsi"
 categories: datakepo
 tags:
 - Visualization
