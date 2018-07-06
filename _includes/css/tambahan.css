@@ -48,3 +48,7 @@ h2.front {
 .meta a {
 	color: #aaa;
 }
+
+h2.iam {
+	font-weight: 500;
+}

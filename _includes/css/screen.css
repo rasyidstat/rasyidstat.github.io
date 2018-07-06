@@ -18,17 +18,17 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: {{ site.data.theme.highlight_color }};
-  font-family: "Nunito", sans-serif;
-  font-weight: 600;
+  font-family: "Museo Sans", sans-serif;
 }
 
 h1.title {
-  font-weight: 800;
+  font-weight: 700;
 }
 
 h1 {
   font-size: 32px;
   line-height: 40px;
+  font-weight: 700;
 }
 
 h2 {
@@ -36,6 +36,7 @@ h2 {
   line-height: 30px;
   margin-top: 26px;
   margin-bottom: 13px;
+  font-weight: 700;
 }
 
 h3 {
@@ -43,11 +44,13 @@ h3 {
   line-height: 24px;
   margin-top: 26px;
   margin-bottom: 13px;
+  font-weight: 700;
 }
 
 h4 {
   margin-top: 26px;
   margin-bottom: 13px;
+  font-weight: 700;
 }
 
 ul {
@@ -158,19 +161,19 @@ nav h1, nav h2 {
 
 .sidebar {
   padding-top: 25px;
-  font-family: "Nunito", sans-serif;
+  font-family: "Museo Sans", sans-serif;
 }
 
 .sidebar p {
-  font-weight: 200;
+  font-weight: 100;
 }
 
 .sidebar a {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .content {
-  font: 400 16px/22px "Nunito", sans-serif;
+  font: 400 16px/22px "Museo Sans", sans-serif;
   border-left: 1px solid #DDD;
   padding-left: 40px;
   padding-top: 25px;
@@ -231,7 +234,7 @@ nav h1, nav h2 {
 }
 
 i.fa-hn {
-  font-family: "Nunito", sans-serif;
+  font-family: "Museo Sans", sans-serif;
   text-align: center;
   font-size: 18px !important;
   position: relative;
