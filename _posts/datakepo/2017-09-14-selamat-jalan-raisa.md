@@ -1,6 +1,6 @@
 ---
 layout: datakepo
-title: "Visualisasi Data: Text Mining Lirik Lagu Raisa"
+title: "Text Mining Lirik Lagu Raisa"
 short-title: "Text Mining Lirik Lagu Raisa"
 meta-title: "Text Mining Lirik Lagu Raisa"
 categories: datakepo

@@ -1,11 +1,11 @@
 ---
 layout: datakepo
-title: "Visualisasi Data: Pencil Maps Pendatang Baru WNI ke DKI Jakarta"
+title: "Pencil Maps Pendatang Baru WNI ke DKI Jakarta"
 short-title: "Pencil Maps Pendatang Baru WNI ke DKI Jakarta"
 meta-title: "Pencil Maps Pendatang Baru WNI ke DKI Jakarta"
 categories: datakepo
 tags:
-- Visualization
+- Peta
 type: post
 img: "/images/datakepo/jkt-pencil/jakarta_pencil_map.png"
 published: true
