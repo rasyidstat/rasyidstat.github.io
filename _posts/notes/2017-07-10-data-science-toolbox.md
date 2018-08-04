@@ -54,7 +54,7 @@ Here are lists of my data science toolbox and framework using R.
 
 ---
 
-## Modelling
+## Modeling
 
 ### Machine Learning
 
