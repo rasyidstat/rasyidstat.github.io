@@ -1,9 +1,9 @@
 ---
-layout: notes
+layout: post
 title: "Building Your Own Personal Analytics from Scratch"
-categories: notes
+categories: blog
 tags:
-- personal
+- quantified self
 type: post
 ---
 
