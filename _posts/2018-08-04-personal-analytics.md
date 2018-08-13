@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Building Your Own Personal Analytics from Scratch"
+short-title: "Personal Analytics from Scratch"
 categories: blog
 tags:
 - quantified self
