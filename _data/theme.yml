@@ -27,6 +27,9 @@ tagline: "Data and My Life"
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-96127719-1
 
+# Publisher ID
+publisher_id: ca-pub-2427961963862864
+
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
 
