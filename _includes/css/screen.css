@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-  font-size: 16px;
+  font-size: 15.5px;
   background-color: white;
   color: #222222;
   line-height: 24px;
@@ -18,7 +18,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: {{ site.data.theme.highlight_color }};
-  font-family: "Museo Sans", sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
 h1.title {
@@ -91,7 +91,7 @@ ul.posts {
 
 ul.posts li {
   line-height: 22px;
-  font-size: 16px;
+  font-size: 15.5px;
   margin-bottom: 0px;
 }
 
@@ -161,11 +161,11 @@ nav h1, nav h2 {
 
 .sidebar {
   padding-top: 25px;
-  font-family: "Museo Sans", sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
 .sidebar p {
-  font-weight: 100;
+  font-weight: 300;
 }
 
 .sidebar a {
@@ -173,7 +173,9 @@ nav h1, nav h2 {
 }
 
 .content {
-  font: 400 16px/22px "Museo Sans", sans-serif;
+  font: 400 15px/22px "IBM Plex Sans", sans-serif;
+  /*color: #353535;*/
+  color: #494949;
   border-left: 1px solid #DDD;
   padding-left: 40px;
   padding-top: 25px;
@@ -234,7 +236,7 @@ nav h1, nav h2 {
 }
 
 i.fa-hn {
-  font-family: "Museo Sans", sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   text-align: center;
   font-size: 18px !important;
   position: relative;
